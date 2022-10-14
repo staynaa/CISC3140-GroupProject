@@ -5,8 +5,11 @@ The group can decide on organization structure and task delegation.
 The group will prepare a short presentation to share findings with the class.
 ____________
 Members: Stayna Alexandre, Miranda Karecho, Cristian Tavara, Steve Xue
+
 Dataset: NYC Shooting incident Data (Historic) Link: https://data.cityofnewyork.us/Public-Safety/NYPD-Shooting-Incident-Data-Historic-/833y-fsy8  
+
 Question:
+
 1. Which seasons were more prone to shooting incidents?
 2. During what time of the day are shootings more likely to occur?
 3. Which victim age group had the most cases resulting in death? (STATISTICAL_MURDER_FLAG) 
@@ -16,4 +19,5 @@ Question:
 		[0] patrol(general, outside, school)
 		[1] transit(on train, bus, or other source of city transportation)
 		[3 or more] outside NYPD jurisdiction 
+
 Repo URL: https://github.com/staynaa/CISC3140-GroupProject
