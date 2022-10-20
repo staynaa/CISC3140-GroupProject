@@ -44,7 +44,7 @@ $6 >= 3 && NR != 1 {
     }
 }
 
-{ ++total; }
+NR != 1 { ++total; }
 
 END {
     print "Total: "total;
