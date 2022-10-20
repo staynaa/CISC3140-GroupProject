@@ -1,24 +1,55 @@
 Total: 25596
 
 Patrol: 21321 (83.2982% of total shootings)
-	Bronx: 6350 (29.7828% of patrol cases, 24.8086% of total shootings)
-	Brooklyn: 8402 (39.4072% of patrol cases, 32.8254% of total shootings)
-	Manhattan: 2496 (11.7068% of patrol cases, 9.75152% of total shootings)
-	Queens: 3415 (16.0171% of patrol cases, 13.3419% of total shootings)
-	Staten Island: 658 (3.08616% of patrol cases, 2.57071% of total shootings)
+	RESTAURANT/DINER: 194
+	JEWELRY STORE: 12
+	SCHOOL: 1
+	COMMERCIAL BLDG: 264
+	LIQUOR STORE: 36
+	CLOTHING BOUTIQUE: 14
+	DRY CLEANER/LAUNDRY: 31
+	FAST FOOD: 99
+	DEPT STORE: 9
+	BAR/NIGHT CLUB: 588
+	PVT HOUSE: 893
+	STORAGE FACILITY: 1
+	SOCIAL CLUB/POLICY LOCATI: 65
+	VIDEO STORE: 2
+	FACTORY/WAREHOUSE: 6
+	CANDY STORE: 6
+	GAS STATION: 61
+	NONE: 175
+	TELECOMM. STORE: 5
+	PHOTO/COPY STORE: 1
+	LOAN COMPANY: 1
+	VARIETY STORE: 11
+	GYM/FITNESS FACILITY: 3
+	HOTEL/MOTEL: 32
+	STORE UNCLASSIFIED: 35
+	GROCERY/BODEGA: 618
+	CHECK CASH: 1
+	SUPERMARKET: 19
+	SMALL MERCHANT: 25
+	BANK: 3
+	BEAUTY/NAIL SALON: 105
+	DOCTOR/DENTIST: 1
+	HOSPITAL: 47
+	UNKNOWN: 14841
+	MULTI DWELL - APT BUILD: 2606
+	CHAIN STORE: 5
+	MULTI DWELL - PUBLIC HOUS: 485
+	DRUG STORE: 11
+	SHOE STORE: 9
 
 Transit: 59 (0.230505% of total shootings)
-	Bronx: 13 (22.0339% of transit cases, 0.0507892% of total shootings)
-	Brooklyn: 22 (37.2881% of transit cases, 0.0859509% of total shootings)
-	Manhattan: 17 (28.8136% of transit cases, 0.0664166% of total shootings)
-	Queens: 7 (11.8644% of transit cases, 0.027348% of total shootings)
-	Staten Island:  (0% of transit cases, 0% of total shootings)
+	UNKNOWN: 59
 
 Housing: 4214 (16.4635% of total shootings)
-	Bronx: 1039 (24.6559% of housing cases, 4.05923% of total shootings)
-	Brooklyn: 1941 (46.0607% of housing cases, 7.58322% of total shootings)
-	Manhattan: 751 (17.8215% of housing cases, 2.93405% of total shootings)
-	Queens: 405 (9.61082% of housing cases, 1.58228% of total shootings)
-	Staten Island: 78 (1.85097% of housing cases, 0.304735% of total shootings)
+	UNKNOWN: 76
+	GROCERY/BODEGA: 4
+	ATM: 1
+	COMMERCIAL BLDG: 1
+	MULTI DWELL - PUBLIC HOUS: 4074
+	MULTI DWELL - APT BUILD: 58
 
 Other: 0 (0% of total shootings)
