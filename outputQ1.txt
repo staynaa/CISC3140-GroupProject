@@ -1,0 +1,11 @@
+	 Seasonal frequency of shooting victims in NYC  2006-2021
+
+* Frequency of shooting victims during Spring: 0.985966
+
+* Frequency of shooting victims during Summer: 1.48348
+
+* Frequency of shooting victims during Autumn: 1.10132
+
+* Frequency of shooting victims during Winter: 0.809858
+
+ ---- There's a frequency increase of shooting victims during the summers from 2006 until 2021 in NYC. ---- 
