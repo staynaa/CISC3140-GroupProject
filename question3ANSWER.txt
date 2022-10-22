@@ -1,0 +1,16 @@
+Based on empty perpertrator information, which boroughs have more unsolved homicides?
+BRONX
+2506
+______
+QUEENS
+1357
+______
+BROOKLYN
+4281
+______
+MANHATTAN
+1024
+______
+STATEN ISLAND
+142
+______

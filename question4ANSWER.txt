@@ -1,0 +1,19 @@
+Which victim age group had the most cases resulting in death?
+UNKNOWN
+15
+______
+65+
+54
+______
+<18
+349
+______
+25-44
+2500
+______
+18-24
+1586
+______
+45-64
+424
+______
