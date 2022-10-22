@@ -1,8 +1,27 @@
-BEGIN { print "Which victim age group had the most cases resulting in death?"
-     }
+BEGIN { 
+    print "Which victim age group had the most cases resulting in death?"
 
-    $12 == 18-24{
-        { print $12 }
+    FS = ","
+}
+
+#use a map that has the age-group as the key
+#that value in that map, it contains the number of deaths according to the STATISTICAL_MURDER_FLAG
+
+    $8 == "true" {
+        ageRangeMap[$12]++
     }
+
+
+END{
+    for (key in ageRangeMap) {
+        print key
+        print ageRangeMap[key]
+        print "______"
+	}
+}
+
+    
+
+
 
 
