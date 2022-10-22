@@ -10,8 +10,8 @@ Dataset: NYC Shooting incident Data (Historic) Link: https://data.cityofnewyork.
 
 Question:
 
-1. Which seasons were more prone to shooting incidents?
-2. During what time of the day are shootings more likely to occur?
+1. Which seasons had a higher frequency of shooting victims?
+2. Based on the time the shooting occurred, what part of the day saw the most shootings?
 3. Which victim age group had the most cases resulting in death? (STATISTICAL_MURDER_FLAG) 
 4. Based on empty perpetrator information, which boroughs have more unsolved homicide?
 5. Where have shootings occurred most? Based on jurisdiction codes (which NYPD department involved: housing, patrol or transit) and the stated locations if there are any.
