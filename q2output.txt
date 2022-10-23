@@ -1,0 +1,5 @@
+Total shootings: 25597
+Amount of Shootings in the Morning: 4967
+Amount of Shootings in the Afternoon: 4913
+Amount of Shootings in the Evening: 5179
+Amount of Shootings in the Night: 10537
